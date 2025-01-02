@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakir Hasan</h1>
-<h3 align="center">A passionate Shopify and WordPress developer from Bangladesh</h3>
+<h3 align="center">A passionate Shopify and WordPress developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirhasan589&label=Profile%20views&color=0e75b6&style=flat" alt="shakirhasan589" /> </p>
 
